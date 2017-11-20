@@ -1,0 +1,26 @@
+#pph {
+    height: 220px;
+    width: auto;
+    overflow: auto;
+    text-align: center;
+  }
+  
+  #ppBody
+  {
+    width: auto;
+    margin: 0 auto 0 0;
+    text-align: center;
+  }
+  
+  #ppHeader
+  {
+    font-family:'Roboto', sans-serif;
+    font-size:21pt;
+    width: auto;
+    margin:0 auto;
+  }
+  
+  .ppConsistencies
+  {
+    display:none;
+  }
