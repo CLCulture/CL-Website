@@ -32,7 +32,7 @@ class Page {
           <!-- <li><a class="white-text" href="./staff">Staff</a> -->
           <li><a class="white-text" href="http://discord.ivgas.online/" target="_blank" rel="noopener">Discord</a>
           <li><a class="white-text" href="./watch">Streams</a>
-          <li><a class="white-text" href="./rules" target="_blank" rel="noopener">Rules</a>
+          <li><a class="white-text" href="./rules">Rules</a>
           <li><a class="white-text" href="./tos">Terms & Privacy Policies</a>
       </ul>
 
