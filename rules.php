@@ -24,8 +24,7 @@ $page->showNav();
       <div class="col s12">
           <h2 class="white-text center">International Video Game and Anime Syndicate (IVGAS) Discord Rules</h2>
       <p class="white-text center">The International Video Game and Anime Syndicate or I.V.G.A.S for short, is a group of people dedicated to Videogames and Anime as a primary topic focus.
-The overall objective for the group is to relax, hang out, and make friends using the Ani
-me and Video Game Focus.
+The overall objective for the group is to relax, hang out, and make friends using the Anime and Video Game Focus.
 </p>
           <h3 class="white-text">Rules:</h3>
     <ol class="white-text">
