@@ -7,7 +7,10 @@ $page->showHeader('Rules');
 
 <link href="css/rules.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 <link href="css/tos.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-<style>.parallax-container .parallax img {opacity:100;}</style>
+<style>
+.parallax-container .parallax img {opacity:100;}
+
+</style>
 </head>
 <body class="black">
 
@@ -42,6 +45,44 @@ me and Video Game Focus.
       <li>No one here gets special treatment from 100chilly or the staff. Everyone is assigned an administrator/developer/moderator role by having previous and prior experience and intense review by 100chilly with input from other staff. We are to treat everyone the same as well as follow the rules ourselves. If this is not being followed and is brought to 100chilly’s direct attention, He will instantly begin an internal review and take immediate action upon the review results.
 </li>
       <li>Have fun and relax with others!</li>
+    </ol>
+    <h3 class="white-text">NSFW Rules:</h3>
+    <ol class="white-text">
+      <li>All Real/IRL Content is forbidden. Cosplay is allowed as long as Discord ToS and Guidelines are followed at all times. Everything you post in terms of non-cosplay images/videos/text must be Fictional/Unrealistic.</li>
+      <li>In the terms of "Lolicon/Shotacon": Not allowed per Discord ToS. We have no issues if it's in group/individual DMs. Just remember the rules in terms of fictional. If you post Child-Pornography (CP), We will immediately remove it and report you to the Discord Staff and have them contact proper authorities.</li>
+      <li>Gore/Scat/Beastility/Watersports/Other extreme fetishes are not allowed and are against Discord ToS. If you decide to post it and we see it, we will pull you to the side and talk to you. Repeated offenses will result in a ban.</li>
+      <li>In the terms of Beast-Like Humanoids (Ex: Neko/Nekomimi/ETC): Its allowed, Just be mindful.</li>
+      <li>We reserve the right to remove content that we think that hurts or is not tasteful to the server or any topic. You may ask staff on why content was removed but if and when they give a reason, do not argue with them. If you think the content was removed out of no proper/real reason, ask to DM 100chilly.</li>
+    </ol>
+
+    <h3 class="white-text">Advertisement Rules:</h3>
+    <p class="white-text">Discord Invites and self-promotion YouTube videos are permitted IF they follow and meet the following criteria:</p>
+    <ul class="white-text browser-default">
+      <li>Content is gaming/anime-related.</li>
+      <li>The link doesn't serve any malicious intent to the community members or staff.</li>
+      <li>Are of Trusted Member Status.</li>
+      <li>Do not infringe on any copyright laws.</li>
+      <li>Are willing to help expand I.V.G.A.S and potential partners.</li>
+    </ul>
+
+    <h3 class="white-text">Other things to consider:</h3>
+    <ol class="white-text">
+      <li>There is no serious discussion channel here. All serious discussions can be done in a Group/Individual DMs as long as they follow the Discord ToS and Guidelines. It's not that we don’t care but we want to avoid any drama that others may start and it turning into a big issue.</li>
+      <li>Promoting or talking about Self-Harm/Suicide or hurting others is not only not allowed here but is against Discord’s Terms of Service and guidelines and we will take action if we feel the threat is credible and need to have proper authorities involved. This also falls under Rule #4 in the basic rules section.</li>
+      <li>#I.V.G.A.S-suggestions is a privilege to have. Posting in there must not regard staff members removal or anything. If you have issues with a staff member on actions they’ve done on this server, ask to DM 100chilly.</li>
+      <li>Bots will be added over time so please don't pester staff about them. Leave a suggestion on bots you want added in #I.V.G.A.S-suggestions. In addition to posting suggestions on bots to be added, We are going to focus on bots that are open-sourced and the code is freely available to look at and review on GitHub. This prevents any malicious bots from being added with the exception of DynoBot.</li>
+      <li>Common sense: If you think there's a chance you will get in trouble for posting something, don't post it because usually you will get in trouble. Staff can review and give you their input, but asking them about everything, every minute is not acceptable and can be considered trolling so don’t be that one guy who asks staff if “can I post this?” on everything.</li>
+    </ol>
+
+    <h3 class="white-text">Notes/Fun Facts:</h3>
+    <ol class="white-text">
+      <li>The name originates as follows:</li>
+      <ol class="white-text" type="a">
+      <li>International = existing between two or more nations not under the same rule.</li>
+      <li>Video Game = any of various interactive games played using a specialized electronic gaming device or a computer or mobile device and a television or other display screen, along with a means to control graphic images.</li>
+      <li>Anime = a style of Japanese film and television animation, typically aimed at adult audiences but can be aimed at younger audiences as well.</li>
+      <li>Syndicate = a group of individuals or organizations combined to promote some common interest(s).</li>
+      </ol>
     </ol>
   
 
