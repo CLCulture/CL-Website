@@ -2,7 +2,7 @@
 
 require("php/include.php");
 $page = new Page();
-$page->showHeader('Home');
+$page->showHeader('Watch');
 ?>
         <link href="css/watch.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     </head>
