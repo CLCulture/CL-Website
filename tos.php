@@ -2,7 +2,7 @@
 
 require("php/include.php");
 $page = new Page();
-$page->showHeader('Home');
+$page->showHeader('ToS');
 ?>
 
 <link href="css/tos.css" type="text/css" rel="stylesheet" media="screen,projection"/>
