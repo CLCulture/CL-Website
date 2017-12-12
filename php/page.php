@@ -18,6 +18,9 @@ class Page {
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    
+    <!-- BATTLE FOR THE NET -->
+    <script>var _bftn_options = { theme: \'glitch\' };</script><script src="https://widget.battleforthenet.com/widget.js" async></script>
   ';
   print($html);
   }
