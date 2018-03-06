@@ -1,5 +1,5 @@
 # CL-Website
-Official repository for Closet Lolis Discord
+Official repository for Closet Lolis Website
 
 ## How to rewrite for IIS
 
