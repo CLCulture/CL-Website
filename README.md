@@ -1,5 +1,5 @@
-# IVGAS-Website
-Official repository for International Video Game and Anime Syndicate
+# CL-Website
+Official repository for Closet Lolis Discord
 
 ## How to rewrite for IIS
 
