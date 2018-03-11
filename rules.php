@@ -22,15 +22,15 @@ $page->showNav();
   <div class="section">
     <div class="row">
       <div class="col s12">
-          <h2 class="white-text center">International Video Game and Anime Syndicate (IVGAS) Discord Rules</h2>
-      <p class="white-text center">The International Video Game and Anime Syndicate or I.V.G.A.S for short, is a group of people dedicated to Videogames and Anime as a primary topic focus.
-The overall objective for the group is to relax, hang out, and make friends using the Anime and Video Game Focus.
+          <h2 class="white-text center">Closet Lolis (CL) Discord Rules</h2>
+      <p class="white-text center">The Closet Lolis or CL for short, is a group of people dedicated to the anime subculture of lolis.
+The overall objective for the group is to relax, hang out, and make friends using the subculture Focus.
 </p>
           <h3 class="white-text">Rules:</h3>
     <ol class="white-text">
       <li>Common Sense applies here. If you refuse to use it, do not come here. Period.</li>
-      <li>There is a Discord ToS, please make sure you follow them at all times so that I.V.G.A.S can be around for everyone to enjoy.</li>
-      <li>Do not come into I.V.G.A.S’s discord bringing chaos and drama with you from DMs or other servers. It's not welcomed here and will result in "any" punishment 100chilly or the Committee sees fit. We don't want your drama or bullshit. Period.
+      <li>There is a Discord ToS, please make sure you follow them at all times so that CL can be around for everyone to enjoy.</li>
+      <li>Do not come into CL’s discord bringing chaos and drama with you from DMs or other servers. It's not welcomed here and will result in "any" punishment the staff sees fit. We don't want your drama or bullshit. Period.
 </li>
       <li>There are people who can easily take offense, so please be cautious think before you start a discussion that includes: religious/political beliefs, other countries and territories, ETC. 
 </li>
@@ -41,14 +41,14 @@ The overall objective for the group is to relax, hang out, and make friends usin
       <li>Please be respectful of others and their lifestyles, preferences, beliefs or choices. We are all here to hang out and make friends.</li>
       <li>Please be wary about your microphone usage. If you have too much background noise and we ask you to either fix or go push to talk, please do so or we will revoke your voice activity permissions.</li>
       <li>Promoting others to break the Discord ToS as well as our server rules is forbidden. Doing this will not help you or your “cause”. Ban evading falls under this and will result in more administrative action.</li>
-      <li>No one here gets special treatment from 100chilly or the staff. Everyone is assigned an administrator/developer/moderator role by having previous and prior experience and intense review by 100chilly with input from other staff. We are to treat everyone the same as well as follow the rules ourselves. If this is not being followed and is brought to 100chilly’s direct attention, He will instantly begin an internal review and take immediate action upon the review results.
+      <li>No one here gets special treatment from the staff. Everyone is assigned an administrator/developer/moderator role by having previous and prior experience and intense review by TouchMe with input from other staff. We are to treat everyone the same as well as follow the rules ourselves. If this is not being followed and is brought to 100chilly’s direct attention, He will instantly begin an internal review and take immediate action upon the review results.
 </li>
       <li>Have fun and relax with others!</li>
     </ol>
     <h3 class="white-text">NSFW Rules:</h3>
     <ol class="white-text">
-      <li>All Real/IRL Content is forbidden. Cosplay is allowed as long as Discord ToS and Guidelines are followed at all times. Everything you post in terms of non-cosplay images/videos/text must be Fictional/Unrealistic.</li>
-      <li>In the terms of "Lolicon/Shotacon": Not allowed per Discord ToS. We have no issues if it's in group/individual DMs. Just remember the rules in terms of fictional. If you post Child-Pornography (CP), We will immediately remove it and report you to the Discord Staff and have them contact proper authorities.</li>
+      <li>Real Life/IRL Content belong in #3dnsfw and 3dmedia respectively.</li>
+      <li>In the terms of "Lolicon/Shotacon": Not allowed per Discord ToS. We have no issues if it's in group/individual DMs or the telegram group. Just remember the rules in terms of fictional. If you post Child-Pornography (CP), We will immediately remove it and report you to the Discord Staff and have them contact proper authorities.</li>
       <li>Gore/Scat/Beastility/Watersports/Other extreme fetishes in either forms of text/images are not allowed and are against Discord ToS. If you decide to post it and we see it, we will pull you to the side and talk to you. Repeated offenses will result in a ban.</li>
       <li>In the terms of Beast-Like Humanoids (Ex: Neko/Nekomimi/ETC): Its allowed, Just be mindful.</li>
       <li>We reserve the right to remove content that we think that hurts or is not tasteful to the server or any topic. You may ask staff on why content was removed but if and when they give a reason, do not argue with them. If you think the content was removed out of no proper/real reason, ask to DM 100chilly.</li>
@@ -61,7 +61,7 @@ The overall objective for the group is to relax, hang out, and make friends usin
       <li>The link doesn't serve any malicious intent to the community members or staff.</li>
       <li>Are of Trusted Member Status.</li>
       <li>Do not infringe on any copyright laws.</li>
-      <li>Are willing to help expand I.V.G.A.S and potential partners.</li>
+      <li>Are willing to help expand CL and potential partners.</li>
     </ul>
 
     <h3 class="white-text">Other things to consider:</h3>
@@ -69,7 +69,7 @@ The overall objective for the group is to relax, hang out, and make friends usin
       <li>There is no serious discussion channel here. All serious discussions can be done in a Group/Individual DMs as long as they follow the Discord ToS and Guidelines. It's not that we don’t care but we want to avoid any drama that others may start and it turning into a big issue.</li>
       <li>Promoting or talking about Self-Harm/Suicide or hurting others is not only not allowed here but is against Discord’s Terms of Service and guidelines and we will take action if we feel the threat is credible and need to have proper authorities involved. This also falls under Rule #4 in the basic rules section.</li>
       <li>#ivgas-suggestions is a privilege to have. Posting in there must not regard staff members removal or anything. If you have issues with a staff member on actions they’ve done on this server, ask to DM 100chilly.</li>
-      <li>Bots will be added over time so please don't pester staff about them. Leave a suggestion on bots you want added in #I.V.G.A.S-suggestions. In addition to posting suggestions on bots to be added, We are going to focus on bots that are open-sourced and the code is freely available to look at and review on GitHub. This prevents any malicious bots from being added with the exception of DynoBot.</li>
+      <li>Bots will be added over time so please don't pester staff about them. Leave a suggestion on bots you want added in #CL-suggestions. In addition to posting suggestions on bots to be added, We are going to focus on bots that are open-sourced and the code is freely available to look at and review on GitHub. This prevents any malicious bots from being added with the exception of DynoBot.</li>
       <li>Common sense: If you think there's a chance you will get in trouble for posting something, don't post it because usually you will get in trouble. Staff can review and give you their input, but asking them about everything, every minute is not acceptable and can be considered trolling so don’t be that one guy who asks staff if “can I post this?” on everything.</li>
     </ol>
 
@@ -107,7 +107,7 @@ The overall objective for the group is to relax, hang out, and make friends usin
       <div class="col s12 center">
         <h3><i class="material-icons green-text">email</i></h3>
         <h4><b class="white-text">Questions or Concerns?</b></h4>
-        <a href="mailto:support@ivgas.online" class="waves-effect waves-light green darken-2 btn-large"><i class="material-icons left">email</i>Send us an Email</a>
+        <a href="mailto:support@example.com" class="waves-effect waves-light green darken-2 btn-large"><i class="material-icons left">email</i>Send us an Email</a>
       </div>
     </div>
 </div>

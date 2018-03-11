@@ -35,9 +35,9 @@ $page->showNav();
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center black-text wh1">International Video Game and Anime Syndicate</h1>
+        <h1 class="header center black-text wh1">Closet Lolis</h1>
         <div class="row center">
-          <h4 class="header black-text wh2">Bridging the Anime and Video Gaming communities together since 2017.</h5>
+          <h4 class="header black-text wh2">Protecting the lolis from lewd offenders since 2017.</h5>
         </div>
       </div>
     </div>
@@ -55,16 +55,16 @@ $page->showNav();
             <h2 class="center white-text"><i class="material-icons">group</i></h2>
             <h5 class="center white-text">Coummunity Focused</h5>
 
-            <p class="light white-text">We focus primarily on Anime and Video Games but its not all we do! Our goal is to create an environment open and accepting of anyone from any background as long as they follow the rules and guidelines.</p>
+            <p class="light white-text">We focus primarily on the anime subculture of lolis but its not all we do! Our goal is to create an environment open and accepting of anyone from any background as long as they follow the rules and guidelines.</p>
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center white-text"><i class="material-icons">videogame_asset</i></h2>
-            <h5 class="center white-text">Melting Pot Of Different Skill Levels</h5>
+            <h5 class="center white-text">Gaming Variety</h5>
 
-            <p class="light white-text">Our members are from all over the globe and all have different and unique skillsets in games. Not sure where to start? Ask away in the <a href='https://discord.gg/HHskkZp'>Discord</a> in the #video-games channel</p>
+            <p class="light white-text">Our members are from all over the globe and all have different and unique skillsets in games. Not sure where to start? Ask away in the <a href='https://discord.gg/X7ykyC5'>Discord</a> in the #general channel</p>
           </div>
         </div>
 
@@ -99,7 +99,7 @@ $page->showNav();
       <div class="row">
         <div class="col s12 center">
           <h3 class="center white-text">Contact</h3>
-          <a class="waves-effect waves-light btn white black-text" href="https://discord.gg/HHskkZp" target="_blank"><i class="material-icons left black-text">chat</i>Contact us</a>
+          <a class="waves-effect waves-light btn white black-text" href="https://discord.gg/X7ykyC5" target="_blank"><i class="material-icons left black-text">chat</i>Contact us</a>
         </div>
       </div>
 
